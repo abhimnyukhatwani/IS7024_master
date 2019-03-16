@@ -1,0 +1,7 @@
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\bin\AssignmentXML1.dll.config
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\bin\AssignmentXML1.dll
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\bin\AssignmentXML1.pdb
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\obj\Debug\AssignmentXML1.csprojAssemblyReference.cache
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\obj\Debug\AssignmentXML1.csproj.CoreCompileInputs.cache
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\obj\Debug\AssignmentXML1.dll
+C:\Users\abhim\source\repos\AssignmentXML1\AssignmentXML1\obj\Debug\AssignmentXML1.pdb

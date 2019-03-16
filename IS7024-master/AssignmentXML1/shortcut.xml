@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styledshortcut.xsl"?>
+<userdetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="uservalidation.xsd">
+	<users>
+		<firstname>Abhimanyu</firstname>
+		<lastname>Khatwani</lastname>
+		<bearcatid>M12947576</bearcatid>
+		<favoriteshortcut>Ctrl+T</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Veehari</firstname>
+		<lastname>Kannegolla</lastname>
+		<bearcatid>M12437111</bearcatid>
+		<favoriteshortcut>Ctrl+Shift+N</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Ravi</firstname>
+		<lastname>Kumar</lastname>
+		<bearcatid>M12947576</bearcatid>
+		<favoriteshortcut>Ctrl+P</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Akash</firstname>
+		<lastname>Kurekar</lastname>
+		<bearcatid>M12968940</bearcatid>
+		<favoriteshortcut>Alt+F4</favoriteshortcut>
+	</users>
+</userdetails>
